@@ -1,0 +1,46 @@
+.title {
+  padding-left: 25px;
+  padding-right: 50px;
+  font-family: Cinzel;
+  font-size: 35px;
+  color: black;
+}
+
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Antic Didone;
+  font-size: 25px;
+  color: black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin-bottom: -20px;
+}
+
+.title:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.button:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.head {
+  padding: 10px;
+  text-align: center;
+}
+
+#about {
+  text-decoration: none;
+  color: grey;
+}
+
+.main {
+  float: left;
+}
+
+.buttons {
+  float: right;
+}
